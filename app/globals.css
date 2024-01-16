@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&family=Roboto+Slab&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.company-name{
+    font-family: 'Roboto Slab', serif;
+}
